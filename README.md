@@ -1,2 +1,2 @@
 # Terraform-Jenkins
-This project is about Deploying Resources on AWS using Terraform and then deploying a Jenkins CI/CD pipeline.
+This project is for deploying resources on AWS using IaC tool (Terraform) and then deploying a Jenkins CI/CD pipeline.
